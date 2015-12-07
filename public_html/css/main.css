@@ -1,0 +1,65 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+/*body{
+    padding-top:40px;
+}*/
+.navbar-inverse{
+    background-color: #0859F1;
+}
+.nav{
+    height:100px;   
+}
+.navbar-brand{
+    top:0px;
+    height: 55px;
+    padding-top: 0;
+}
+.navbar-brand img{
+    width: 200px;
+    height: 55px;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    background-image:none !important;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li {
+    background-color:#101010;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    background-color:#eb9316;
+}
+.btn-space {
+    margin-right: 5px;
+}
+.btn-margin-left {
+    margin-left: 10px;
+}
+.btn-margin-right {
+    margin-right: 10px;
+}
+
+/*=========Social Links ===========*/
+ul.social li{
+    display:inline;
+}
+ul.social li img{
+    height:35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
